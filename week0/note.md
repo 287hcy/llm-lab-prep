@@ -1,0 +1,1 @@
+本周安装了Anaconda Prompt，设置了一个环境lab，然后学会了git使用，装PyTorch了并跑通第一段张量代码。下一周准备学习python代码
